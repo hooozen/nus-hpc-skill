@@ -1,0 +1,4 @@
+interface:
+  display_name: "NUS HPC"
+  short_description: "macOS 与无头 Linux 的 NUS HPC 认证、PBS 托管与断点接续"
+  default_prompt: "使用 $nus-hpc 帮我连接 NUS HPC，检查资源并托管一个可断点续跑的任务。"
